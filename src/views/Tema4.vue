@@ -118,7 +118,7 @@
     Separador
     //- Inicio Tema 1.1
     .row.mt-5
-      #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.2	Tipos de claves: primaria, foránea y compuesta
     .row.justify-content-center.align-items-stretch.g-0.mb-5(data-aos="fade")      
       .col-lg-10.p-4.mb-0.d-flex.align-items-center.bg-color-6
@@ -155,7 +155,7 @@
     Separador
     //- Inicio Tema 1.1
     .row.mt-5
-      #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.3	Diseño de índices
     p.mb-5(data-aos="fade-left") Los índices son estructuras adicionales que permiten <b>acelerar la recuperación de datos</b>, funcionando como rutas alternativas de acceso a la información. Aunque no forman parte del modelo conceptual, son elementos esenciales en el nivel físico del diseño de bases de datos.
     .row.justify-content-center.align-items-stretch.g-0
